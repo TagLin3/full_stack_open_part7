@@ -1,0 +1,11 @@
+PUT http://localhost:3001/api/blogs/65d72f45ea247eab55e28427
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjY1Y2RkYTgyMmQzZjZlMzMxZTJlYjZkYSIsImlhdCI6MTcwODM0MzY3M30.l_5RWYbHtBbbmjoEIvxB1PkfRO2hu7zzieP7PWUVg0A
+
+{
+    "title": "xzxcvxc",
+    "author": "asdf",
+    "url": "asdf://asdf.asdf",
+    "user": "65cdda822d3f6e331e2eb6da",
+    "likes": 100
+}
